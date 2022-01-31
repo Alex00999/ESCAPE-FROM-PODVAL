@@ -1,0 +1,78 @@
+                                         GGGGG
+                                         G*G*G
+                      GGGGGGGGGGGGGGGGGGGG B GGGGGGGGGGGGGGGGGGGG
+                      G                    B                    G
+                      G                    B                    G
+                      O  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB  O
+                      G  BBBBBBBBBBOBBBBBBBBBBBBBBBOBBBBBBBBBB  G
+                      G  BB                                 BB  G
+                      O  BB                                 BB  O
+                      G  BB  IcCcI  IcCcI     IcCcI  IcCcI  BB  G
+                      G  BO  c   c  c   c     c   c  G   c  OB  G
+                      O  BB  IcCcI  IcCcI     IcCcI  IcCcI  BB  O
+                      G  BB                                 BB  G
+                      G  BB                                 BB  G
+                      O  BBBBBBBBB  B  BBBBBBBBB  B  BBBBBBBBB  O
+                      G  B       B  B      B      B  B       B  G
+                      G  B       B  B      B      B  B       B  G
+                      O  B       B  BBBBB  B  BBBBB  B       B  O
+                      G  B       B  B             B  B       B  G
+                      G  B       B  B             B  B       B  G
+                      O  BBBBBBBBB  B  IIII IIII  B  BBBBBBBBB  O
+                      G                I       I                G
+                      G                I S   S I                G
+                      GGGGGGGGGGGG  B  I       I  B  GGGGGGGGGGGG
+                                 G  B  IIIIIIIII  B  G
+                                 G  B             B  G
+                                 G  B             B  G
+                                 G  B  BBBBBBBBB  B  G
+                           GGGGGGG         P         GGGGGGG
+                           G               P               G
+                           G        PPPPP  P  PPPPP        G
+                           G  PPPP                   PPPP  G
+                           G     P                   P     G
+                           G     P  P  PPPPPPPPP P   P     G
+                           GPPP  P  P      P     P   P  PPPG
+                           G        P      P     P         G
+                           G        P      P     P         G
+                           G  PPPPPPPPPPP  P  PPPPPPPPPPP  G
+                           G                               G
+                           G                               G
+                           GGGGGGGGGGGGGGGG GGGGGGGGGGGGGGGG
+                                          P P
+          IIIOIII                         P P
+          IDD DDI                         P P
+  IIIIddddd     dddddIIII           IDDDDIP P
+  IIdd               ddII           D    DP P
+  Id      d     d      dI           D SS    P
+IIdd      d     d      ddDDDDDDDDDDDD    DPPP
+ID        d     d        D               D
+O     ddddd     ddddd                    D
+ID        d     d        D               D
+IIdd      d     d      ddDDDDDDDDDDDD    D
+  Id      d     d      dI           IDDDDI
+  IIdd               ddII
+  IIIIddddd     dddddIIII
+          IDD DDI
+           D   D
+           D   D
+           D   D
+           D   D
+           D   D
+           D   D
+           D   D
+           D   D
+           D   D
+      DDDDDDD DDDDDDD
+      D    D   D    D
+      D             D
+      D    D   D    D
+      DDDDDD   DDDDDD
+      D    D   D    D
+      D        C    D
+      D    D   D    D
+      DDDDDD   DDDDDD
+      D             D
+      D             D
+      D             D
+      DCDDCDDCDDCDDCD
