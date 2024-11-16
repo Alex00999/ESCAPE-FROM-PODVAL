@@ -48,7 +48,6 @@
 
 ![Скриншот 1](readme_assets/screenshot-1.png)
 ![Скриншот 2](readme_assets/screenshot-2.png)
-![Скриншот 3](readme_assets/screenshot-3.png)
 
 ---
 
