@@ -4,7 +4,7 @@
 **Издатель:** Malakhov Alexey Vitalevich  
 **Дата выхода:** 1 февраля 2022
 
-![main_logo.png](readme_assets/main_logo.png)
+![main_logo.png](readme_assets/main_logo_fixed.png)
 
 ---
 
